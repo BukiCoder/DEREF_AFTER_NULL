@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|c:\\users\\leon\\source\\repos\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|solutionrelative:deref_after_null_3\\deref_after_null_3\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|c:\\users\\leon\\source\\repos\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3\\localcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|solutionrelative:deref_after_null_3\\deref_after_null_3\\localcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|c:\\users\\leon\\source\\repos\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3\\symboltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|solutionrelative:deref_after_null_3\\deref_after_null_3\\symboltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|c:\\users\\leon\\source\\repos\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3\\walker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|solutionrelative:deref_after_null_3\\deref_after_null_3\\walker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|c:\\users\\leon\\source\\repos\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3\\simplecondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|solutionrelative:deref_after_null_3\\deref_after_null_3\\simplecondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|c:\\users\\leon\\source\\repos\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3\\nullandnotnullcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|solutionrelative:deref_after_null_3\\deref_after_null_3\\nullandnotnullcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|c:\\users\\leon\\source\\repos\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|solutionrelative:deref_after_null_3\\deref_after_null_3\\deref_after_null_3analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|c:\\users\\leon\\source\\repos\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3\\statescontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|solutionrelative:deref_after_null_3\\deref_after_null_3\\statescontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B9E714-FFD2-4B3B-B52C-5D235D670BB4}|Deref_after_null_3\\Deref_after_null_3.CodeFixes\\Deref_after_null_3.CodeFixes.csproj|c:\\users\\leon\\source\\repos\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3.codefixes\\deref_after_null_3codefixprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B9E714-FFD2-4B3B-B52C-5D235D670BB4}|Deref_after_null_3\\Deref_after_null_3.CodeFixes\\Deref_after_null_3.CodeFixes.csproj|solutionrelative:deref_after_null_3\\deref_after_null_3.codefixes\\deref_after_null_3codefixprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF128959-AB21-45A9-98B6-A76F6408C156}|Deref_after_null_3\\Deref_after_null_3.Test\\Deref_after_null_3.Test.csproj|c:\\users\\leon\\source\\repos\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3.test\\deref_after_null_3unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF128959-AB21-45A9-98B6-A76F6408C156}|Deref_after_null_3\\Deref_after_null_3.Test\\Deref_after_null_3.Test.csproj|solutionrelative:deref_after_null_3\\deref_after_null_3.test\\deref_after_null_3unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|c:\\users\\leon\\source\\repos\\deref_after_null_3\\deref_after_null_3\\deref_after_null_3\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6D8C432A-7B1B-45FB-A2D1-4D6DDAA554F2}|Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.csproj|solutionrelative:deref_after_null_3\\deref_after_null_3\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\Resources.resx",
+              "RelativeDocumentMoniker": "Deref_after_null_3\\Deref_after_null_3\\Resources.resx",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\Resources.resx",
+              "RelativeToolTip": "Deref_after_null_3\\Deref_after_null_3\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-05T13:02:15.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Deref_after_null_3UnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.Test\\Deref_after_null_3UnitTests.cs",
+              "RelativeDocumentMoniker": "Deref_after_null_3\\Deref_after_null_3.Test\\Deref_after_null_3UnitTests.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.Test\\Deref_after_null_3UnitTests.cs",
+              "RelativeToolTip": "Deref_after_null_3\\Deref_after_null_3.Test\\Deref_after_null_3UnitTests.cs",
+              "ViewState": "AgIAAOcCAAAAAAAAAAAQwO8DAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:29:40.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Walker.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\Walker.cs",
+              "RelativeDocumentMoniker": "Deref_after_null_3\\Deref_after_null_3\\Walker.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\Walker.cs",
+              "RelativeToolTip": "Deref_after_null_3\\Deref_after_null_3\\Walker.cs",
+              "ViewState": "AgIAAIoCAAAAAAAAAAAmwJMCAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:27:39.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SymbolTree.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\SymbolTree.cs",
+              "RelativeDocumentMoniker": "Deref_after_null_3\\Deref_after_null_3\\SymbolTree.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\SymbolTree.cs",
+              "RelativeToolTip": "Deref_after_null_3\\Deref_after_null_3\\SymbolTree.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwHMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:27:17.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatesContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\StatesContainer.cs",
+              "RelativeDocumentMoniker": "Deref_after_null_3\\Deref_after_null_3\\StatesContainer.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\StatesContainer.cs",
+              "RelativeToolTip": "Deref_after_null_3\\Deref_after_null_3\\StatesContainer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:27:03.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleCondition.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\SimpleCondition.cs",
+              "RelativeDocumentMoniker": "Deref_after_null_3\\Deref_after_null_3\\SimpleCondition.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\SimpleCondition.cs",
+              "RelativeToolTip": "Deref_after_null_3\\Deref_after_null_3\\SimpleCondition.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:26:44.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NullAndNotNullContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\NullAndNotNullContainer.cs",
+              "RelativeDocumentMoniker": "Deref_after_null_3\\Deref_after_null_3\\NullAndNotNullContainer.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\NullAndNotNullContainer.cs",
+              "RelativeToolTip": "Deref_after_null_3\\Deref_after_null_3\\NullAndNotNullContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:26:24.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocalContext.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\LocalContext.cs",
+              "RelativeDocumentMoniker": "Deref_after_null_3\\Deref_after_null_3\\LocalContext.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\LocalContext.cs",
+              "RelativeToolTip": "Deref_after_null_3\\Deref_after_null_3\\LocalContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:25:58.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\Condition.cs",
+              "RelativeDocumentMoniker": "Deref_after_null_3\\Deref_after_null_3\\Condition.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\Condition.cs",
+              "RelativeToolTip": "Deref_after_null_3\\Deref_after_null_3\\Condition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:25:43.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Deref_after_null_3CodeFixProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.CodeFixes\\Deref_after_null_3CodeFixProvider.cs",
+              "RelativeDocumentMoniker": "Deref_after_null_3\\Deref_after_null_3.CodeFixes\\Deref_after_null_3CodeFixProvider.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3.CodeFixes\\Deref_after_null_3CodeFixProvider.cs",
+              "RelativeToolTip": "Deref_after_null_3\\Deref_after_null_3.CodeFixes\\Deref_after_null_3CodeFixProvider.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:22:03.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deref_after_null_3Analyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3Analyzer.cs",
+              "RelativeDocumentMoniker": "Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3Analyzer.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3Analyzer.cs",
+              "RelativeToolTip": "Deref_after_null_3\\Deref_after_null_3\\Deref_after_null_3Analyzer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:21:59.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

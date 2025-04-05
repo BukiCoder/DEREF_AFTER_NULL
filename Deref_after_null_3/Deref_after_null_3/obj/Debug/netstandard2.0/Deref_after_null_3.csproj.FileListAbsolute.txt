@@ -1,0 +1,12 @@
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\obj\Debug\netstandard2.0\Deref_after_null_3.csproj.AssemblyReference.cache
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\obj\Debug\netstandard2.0\Deref_after_null_3.Resources.resources
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\obj\Debug\netstandard2.0\Deref_after_null_3.csproj.GenerateResource.cache
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\obj\Debug\netstandard2.0\Deref_after_null_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\obj\Debug\netstandard2.0\Deref_after_null_3.AssemblyInfoInputs.cache
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\obj\Debug\netstandard2.0\Deref_after_null_3.AssemblyInfo.cs
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\obj\Debug\netstandard2.0\Deref_after_null_3.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\bin\Debug\netstandard2.0\Deref_after_null_3.deps.json
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\bin\Debug\netstandard2.0\Deref_after_null_3.dll
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\bin\Debug\netstandard2.0\Deref_after_null_3.pdb
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\obj\Debug\netstandard2.0\Deref_after_null_3.dll
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3\obj\Debug\netstandard2.0\Deref_after_null_3.pdb

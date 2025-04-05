@@ -1,0 +1,15 @@
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\obj\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.csproj.AssemblyReference.cache
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\obj\Debug\netstandard2.0\Deref_after_null_3.CodeFixResources.resources
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\obj\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.csproj.GenerateResource.cache
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\obj\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\obj\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.AssemblyInfoInputs.cache
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\obj\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.AssemblyInfo.cs
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\obj\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\bin\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.deps.json
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\bin\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.dll
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\bin\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.pdb
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\bin\Debug\netstandard2.0\Deref_after_null_3.dll
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\bin\Debug\netstandard2.0\Deref_after_null_3.pdb
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\obj\Debug\netstandard2.0\Deref_af.A4ABE863.Up2Date
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\obj\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.dll
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.CodeFixes\obj\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.pdb

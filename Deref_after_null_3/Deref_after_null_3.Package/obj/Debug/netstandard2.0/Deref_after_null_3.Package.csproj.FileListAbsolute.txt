@@ -1,0 +1,17 @@
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\obj\Debug\netstandard2.0\Deref_after_null_3.Package.csproj.AssemblyReference.cache
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\obj\Debug\netstandard2.0\Deref_after_null_3.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\obj\Debug\netstandard2.0\Deref_after_null_3.Package.AssemblyInfoInputs.cache
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\obj\Debug\netstandard2.0\Deref_after_null_3.Package.AssemblyInfo.cs
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\obj\Debug\netstandard2.0\Deref_after_null_3.Package.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\bin\Debug\netstandard2.0\tools\install.ps1
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\bin\Debug\netstandard2.0\tools\uninstall.ps1
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\bin\Debug\netstandard2.0\Deref_after_null_3.Package.deps.json
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\bin\Debug\netstandard2.0\Deref_after_null_3.Package.dll
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\bin\Debug\netstandard2.0\Deref_after_null_3.Package.pdb
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\bin\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.dll
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\bin\Debug\netstandard2.0\Deref_after_null_3.dll
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\bin\Debug\netstandard2.0\Deref_after_null_3.CodeFixes.pdb
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\bin\Debug\netstandard2.0\Deref_after_null_3.pdb
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\obj\Debug\netstandard2.0\Deref_af.984226E2.Up2Date
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\obj\Debug\netstandard2.0\Deref_after_null_3.Package.dll
+C:\Users\Leon\source\repos\Deref_after_null_3\Deref_after_null_3\Deref_after_null_3.Package\obj\Debug\netstandard2.0\Deref_after_null_3.Package.pdb
